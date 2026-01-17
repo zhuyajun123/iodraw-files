@@ -37,7 +37,7 @@
         <mxCell id="yhH-BoqNm2tPcNxOyr_Z-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhH-BoqNm2tPcNxOyr_Z-0" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yhH-BoqNm2tPcNxOyr_Z-0" value="能量平衡（辐射、湍流交换；冠层顶+地表分别求解）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yhH-BoqNm2tPcNxOyr_Z-0" value="能量平衡（辐射、风速；冠层顶+地表分别求解）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="170" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yhH-BoqNm2tPcNxOyr_Z-2" value="输出（能量通量、水通量/蓄水，同位素、年龄等）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
